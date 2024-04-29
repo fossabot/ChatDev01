@@ -61,6 +61,7 @@
 ## ❓ What Can ChatDev Do?
 
 ![intro](misc/intro.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpratimahrya%2FChatDev01.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpratimahrya%2FChatDev01?ref=badge_shield)
 
 <https://github.com/OpenBMB/ChatDev/assets/11889052/80d01d2f-677b-4399-ad8b-f7af9bb62b72>
 
@@ -212,6 +213,9 @@ Made with [contrib.rocks](https://contrib.rocks).
 - Source Code Licensing: Our project's source code is licensed under the Apache 2.0 License. This license permits the use, modification, and distribution of the code, subject to certain conditions outlined in the Apache 2.0 License.
 - Project Open-Source Status: The project is indeed open-source; however, this designation is primarily intended for non-commercial purposes. While we encourage collaboration and contributions from the community for research and non-commercial applications, it is important to note that any utilization of the project's components for commercial purposes necessitates separate licensing agreements.
 - Data Licensing: The related data utilized in our project is licensed under CC BY-NC 4.0. This license explicitly permits non-commercial use of the data. We would like to emphasize that any models trained using these datasets should strictly adhere to the non-commercial usage restriction and should be employed exclusively for research purposes.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpratimahrya%2FChatDev01.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpratimahrya%2FChatDev01?ref=badge_large)
 
 ## 🌟 Star History
 
